@@ -1,5 +1,5 @@
 # Hello, My name is Humberto
-<a href="www.linkedin.com/in/humberto-jaramillo-3a48ba338"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/humberto-jaramillo-3a48ba338"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a Certified Cybersecurity Proffesional with a passion for cybersecurity, I am eager to apply my knowledge and skills to protect digital assets and ensure data integrity
 
